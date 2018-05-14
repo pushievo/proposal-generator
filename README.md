@@ -1,4 +1,4 @@
-# Dash Proposal Generator
+# Pushi Proposal Generator
 
 [![Build Status](https://travis-ci.org/dashevo/proposal-generator.svg?branch=master)](https://travis-ci.org/dashevo/proposal-generator)
 

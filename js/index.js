@@ -1,4 +1,4 @@
-var Bitcore = require('bitcore-lib-dash');
+var Bitcore = require('bitcore-lib-pushi');
 
 var socket;
 var paymentCycle;
